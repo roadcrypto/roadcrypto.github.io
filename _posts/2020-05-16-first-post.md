@@ -1,5 +1,7 @@
 ---
-food: Pizza
+layout: post
+title: first post
+
 ---
 
-{{ page.food }}
+{{ page.title }}
