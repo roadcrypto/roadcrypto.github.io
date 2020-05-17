@@ -1,4 +1,4 @@
-## Welcome
+## Such Crypto, Much Frenns
 
 You can use the [some link](https://discord.gg/xassxQr) to maintain and preview the content for your website in Markdown files.
 
