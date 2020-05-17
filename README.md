@@ -1,10 +1,7 @@
 ## Such Crypto, Much Networking
 
-```
-
 You can use the [some link](https://discord.gg/VXPcPaz) to maintain and preview the content for your website in Markdown files.
 
-```
 
 <ul>
   {% for post in site.posts %}
