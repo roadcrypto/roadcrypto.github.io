@@ -11,6 +11,21 @@ You can use the [some link](https://discord.gg/VXPcPaz) to maintain and preview 
   {% endfor %}
 </ul>
 
+<ul>
+  {% for post in https://keybase.pub/chaos_library/ %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+
+
+
+
+
 random text
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
