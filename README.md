@@ -1,6 +1,6 @@
 ## Such Crypto, Much Networking
 
-You can use the [some link](https://discord.gg/VXPcPaz) to maintain and preview the content for your website in Markdown files.
+You can use the some link to maintain and preview the content for your website in Markdown files.
 
 
 <ul>
@@ -12,9 +12,9 @@ You can use the [some link](https://discord.gg/VXPcPaz) to maintain and preview 
 </ul>
 
 <ul>
-  {% for post in https://keybase.pub/chaos_library/ %}
+  {% for file in site.static_files %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ file.url }}"</a>
     </li>
   {% endfor %}
 </ul>
