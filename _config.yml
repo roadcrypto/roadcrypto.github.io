@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+defaults:
+ - scope:
+   path: "https://keybase.pub/chaos_library/"
+   values:
+   pdfdoc: true
