@@ -14,14 +14,14 @@ You can use the some link to maintain and preview the content for your website i
 <ul>
   {% for file in site.static_files %}
     <li>
-      <a href="{{ file.url }}"</a>
+      <a href="{{ file.url }}">{{ file.name }}</a>
     </li>
   {% endfor %}
 </ul>
 
 
 
-edit 2
+edit 3
 
 
 
